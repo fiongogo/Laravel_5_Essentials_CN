@@ -11,6 +11,7 @@ security issues with the existing code base.
 In doing so, you will learn about:
 >通过本章的学习，你将会学习以下内容
 * Configuring and using the authentication service
+>通过本章的学习，你将会学习以下内容
 * Middleware and how to apply it to specific routes
 * Data validation and form requests
 * The most common security vulnerabilities in web applications
